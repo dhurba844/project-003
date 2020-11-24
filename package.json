@@ -1,0 +1,19 @@
+{
+  "name": "project-003",
+  "version": "1.0.0",
+  "description": "this web side  a showing a some awesome place and get direction with the link \r this web side  giving to customer more information \r cutomer also watch picture through this side \r we can added more places and direction \r this web can helps for showing place and get direction and details",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhurba844/project-003.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhurba844/project-003/issues"
+  },
+  "homepage": "https://github.com/dhurba844/project-003#readme"
+}
