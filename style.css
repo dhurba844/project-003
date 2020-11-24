@@ -1,0 +1,136 @@
+
+
+
+body {
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#2f229e;
+
+}
+
+#Ron {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    background-color: #778899;
+    text-align: center;
+   
+    
+}
+
+#me {
+    color: black;
+}
+
+.container {
+    width: 1000px;
+    margin: 50px auto;
+    height: auto;
+   
+}
+
+#port {
+    margin-bottom: 10px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+nav {
+    background-color:#810fce;
+    border-radius: 25px 25px 0px 0px;
+}
+
+
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+.images {
+    font-size: 25px;
+    color: white;
+   
+    
+   
+}
+
+.img-thumbnail
+{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    object-fit: fill;
+}
+
+p {
+    padding: auto 30px;
+}
+
+
+ #tiger {
+    display: block;
+    margin: 25px auto;
+    width: 50%;
+ }
+
+
+
+.media-body {
+    padding-left: 10px;
+}
+
+
+.rounded .float-left {
+    height: 75%;
+    width: 75%;
+}
+
+.rounded .float-right {
+    float: right;
+}
+
+.float-left img {
+    float: left;
+}
+
+#eagle {
+    margin: auto;
+    width: 400px;
+}
+
+.footie {
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+
+.container {
+        width: 100%;
+        padding: 20px;
+    }
+hr {
+    width: 100%;
+}
+    .row {
+    width: 100%;
+}
+
+.img-thumbnail {
+    width: 100%;
+}
+
+.media-body {
+    width: 100%;
+}
+
+#tiger {
+    width: 100%;
+}
+
+}
